@@ -1,0 +1,25 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "this is a description",
+  "engines": {
+    "node": "10.3.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaud83/helloworld.git"
+  },
+  "author": "Arnaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnaud83/helloworld/issues"
+  },
+  "homepage": "https://github.com/arnaud83/helloworld#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
